@@ -19,7 +19,7 @@
         android:layout_weight="1">
         <Button
             android:id="@+id/btn_show_ori"
-            android:text="显示原始图"
+            android:text="显示原图"
             android:textSize="20sp"
             android:layout_weight="1"
             android:layout_width="0dp"
